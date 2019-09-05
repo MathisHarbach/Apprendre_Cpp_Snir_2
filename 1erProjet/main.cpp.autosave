@@ -75,7 +75,7 @@ int main()
     }
 */
 
-
+// Exemple d'ecriture dans un fichier -> Remplacer les cout par le nom du fichier ou l'on veut écire. 
 
     string nomDuFichier2;
 
